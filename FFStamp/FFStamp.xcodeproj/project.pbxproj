@@ -86,10 +86,6 @@
 				A208E27D1C3CEE51009914FA /* AppDelegate.m */,
 				A208E27F1C3CEE51009914FA /* ViewController.h */,
 				A208E2801C3CEE51009914FA /* ViewController.m */,
-				A208E2821C3CEE51009914FA /* Main.storyboard */,
-				A208E2851C3CEE51009914FA /* Assets.xcassets */,
-				A208E2871C3CEE51009914FA /* LaunchScreen.storyboard */,
-				A208E28A1C3CEE51009914FA /* Info.plist */,
 				A208E2791C3CEE51009914FA /* Supporting Files */,
 			);
 			path = FFStamp;
@@ -98,6 +94,10 @@
 		A208E2791C3CEE51009914FA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A208E2821C3CEE51009914FA /* Main.storyboard */,
+				A208E2851C3CEE51009914FA /* Assets.xcassets */,
+				A208E2871C3CEE51009914FA /* LaunchScreen.storyboard */,
+				A208E28A1C3CEE51009914FA /* Info.plist */,
 				A208E27A1C3CEE51009914FA /* main.m */,
 			);
 			name = "Supporting Files";
